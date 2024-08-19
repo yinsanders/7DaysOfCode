@@ -1,5 +1,5 @@
 // Definimos el número secreto 
-let numeroSecreto = 7;
+let numeroSecreto = Math.floor(Math.random() * 11);
 
 // Inicializamos los intentos
 let intentos = 3;
